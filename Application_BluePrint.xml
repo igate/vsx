@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ns24:export-package
+    xmlns:ns10="http://www.vmware.com/darwin/schema/beans/cloud/provider"
+    xmlns:ns6="http://www.vmware.com/darwin/schema/beans/catalog/component"
+    xmlns:ns18="http://www.vmware.com/darwin/schema/beans/update/profile"
+    xmlns:ns16="http://www.vmware.com/darwin/schema/beans/flow"
+    xmlns:ns25="http://www.vmware.com/darwin/schema/beans/notification"
+    xmlns:ns5="http://www.vmware.com/darwin/schema/beans/entity"
+    xmlns:ns13="http://www.vmware.com/darwin/schema/beans/cloud/tunnel"
+    xmlns:ns21="http://www.vmware.com/darwin/schema/beans/security/user"
+    xmlns:ns23="http://www.vmware.com/darwin/schema/beans/ssl"
+    xmlns:ns20="http://www.vmware.com/darwin/schema/beans/security/ldap"
+    xmlns:ns14="http://www.vmware.com/darwin/schema/beans/deployment/environment"
+    xmlns:ns22="http://www.vmware.com/darwin/schema/beans/networking"
+    xmlns:ns2="http://www.vmware.com/darwin/schema/beans/response"
+    xmlns:ns26="http://www.vmware.com/darwin/schema/beans/api"
+    xmlns:ns19="http://www.vmware.com/darwin/schema/beans/deployment"
+    xmlns:ns4="http://www.vmware.com/darwin/schema/beans/metatag"
+    xmlns:ns3="http://www.vmware.com/darwin/schema/beans/props"
+    xmlns:ns11="http://www.vmware.com/darwin/schema/beans/physical/template"
+    xmlns:ns27="http://www.vmware.com/darwin/schema/beans/license"
+    xmlns:ns24="http://www.vmware.com/darwin/schema/beans/exim"
+    xmlns:ns17="http://www.vmware.com/darwin/schema/beans/deployment/profile"
+    xmlns:ns15="http://www.vmware.com/darwin/schema/beans/driver/location"
+    xmlns:ns9="http://www.vmware.com/darwin/schema/beans/scripts"
+    xmlns:ns12="http://www.vmware.com/darwin/schema/beans/blueprint"
+    xmlns:ns8="http://www.vmware.com/darwin/schema/beans/application" xmlns:ns7="http://www.vmware.com/darwin/schema/beans/security">
+    <errors>false</errors>
+    <application-director-version>vFabric Application Director CLI BUILD [5.0.0-943241]</application-director-version>
+    <application-versions>
+
+    </application-versions>
+</ns24:export-package>

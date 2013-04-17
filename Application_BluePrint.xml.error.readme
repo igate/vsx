@@ -1,0 +1,5 @@
+There was an error importing the blueprint.
+
+Please make sure you are using the correct version of application director.
+To troubleshoot issues during import you can try to manually download the blueprint and import using the Application Director CLI.
+For more information on how to use the Application Director CLI refer to the Application Director documentation.
