@@ -1,4 +1,4 @@
-This Blueprint deploys <Application name>.
+This Blueprint deploys a standalone resource ADFS 2.0 node.
 
 For detailed instruction on how to use this VMware vFabric Application Director 5.0 blueprint refer to the documentation provided along with this blueprint.
 Refer to the resources tab on solution exchange for links to more information.
