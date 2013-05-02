@@ -5,14 +5,14 @@
         },
         "applications":{
             "applicationDirectorWebImport":{
-                "exportFileName":"MS AD Federation Service 20_BluePrint.xml",
-                "exportedFileReadme":"MS AD Federation Service 20_BluePrint.xml.readme",
+                "exportFileName":"MS-ADFederationService20-1.0.0.xml",
+                "exportedFileReadme":"MS-ADFederationService20-1.0.0.xml.readme",
                 "importSectionHeader":"MS AD Federation Service 2.0 (resource)",
                 "exportedWithAppDVersion":5.0,
                 "optional":{
-                    "nextStepsMarkdownFile":"MS AD Federation Service 20_BluePrint.xml.md",
+                    "nextStepsMarkdownFile":"MS-ADFederationService20-1.0.0.xml.md",
                     "enableConsoleLogging":true,
-                    "exportedFileErrorReadme":"MS AD Federation Service 20_BluePrint.xml.error.readme"
+                    "exportedFileErrorReadme":"MS-ADFederationService20-1.0.0.xml.error.readme"
                 } 
             }
         }
